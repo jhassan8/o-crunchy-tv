@@ -1,0 +1,50 @@
+body
+{
+    width: 960px; 
+    height: 520px;
+}
+        
+#error
+{
+    display:none;
+	position:absolute;
+    top:0px;
+    left:0px;
+    width: 960px; 
+    height: 540px;
+    background-color:#6a6a6a;
+}
+
+#errorLogo
+{
+    display:block;
+	position:absolute;
+    top:168px;
+    left:270px;
+    width: 139px;
+    height: 204px;
+    background:url(../Images/errorLogo.png) no-repeat;
+}
+
+#errorCode
+{
+	display:block;
+	position:absolute;
+	font-size:70px;
+	width: 300px;
+	left:440px;
+	top:190px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+
+#errorText
+{
+	display:block;
+	position:absolute;
+	font-size:40px;
+	width: 300px;
+	left:440px;
+	top:270px;
+	color:#FFFFFF;
+}

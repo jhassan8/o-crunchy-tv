@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.samsung.com/">
+     <ListIcon>icons/Global_Comm_86x70.png</ListIcon>
+    <BigListIcon>icons/Global_Comm_95x78.png</BigListIcon>
+    <ThumbIcon>icons/Global_Comm_106x87.png</ThumbIcon>
+    <BigThumbIcon>icons/Global_Comm_115x95.png</BigThumbIcon> 
+    <type>user</type>
+    <cpname>Djjoc</cpname>
+    <cplogo/>
+    <cpauthjs/>
+    <ver/>
+    <mgrver/>
+    <fullwidget>y</fullwidget>
+	<movie>y</movie>
+    <srcctl>y</srcctl>
+    <ticker>n</ticker>
+    <childlock>n</childlock>
+    <audiomute>n</audiomute>
+    <videomute>n</videomute>
+    <dcont>y</dcont>
+    <widgetname>Crunchyroll</widgetname>
+    <description/>
+    <width>960</width>
+    <height>540</height>
+    <flashplayer>y</flashplayer>
+    <author>
+        <name>Jocs</name>        
+        <email/>
+        <link/>
+        <organization>Difix</organization>
+    </author>
+</widget>
