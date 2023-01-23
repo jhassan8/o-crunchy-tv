@@ -1,13 +1,17 @@
 # Crunchyroll Difix (v2012)
 
-Aplicación basada en Samsung Smart TV Legacy v2010 en adelante
+Application based on Samsung Smart TV Legacy v2010 (no TIZEN).
+For non-tizen devices the crunchyroll apis are not functional because they implemented m3u8 videos not supported by the old samsung os.
 
-Utilizando el SDK de Samsung
+Migration to Tizen is being finalized.
+https://github.com/jhassan8/crunchyroll-tizen
 
-**INFO: Cuenta con varias versiones, las cuales dichas [APIS](https://github.com/jhassan8/o-crunchy-api) algunas opciones dejaron de funcionar por falta de actualizaciones.**
+Using the Samsung SDK
 
-Capturas:
+**INFO: It has several versions, which said APIS some options stopped working due to lack of updates.**
 
-![Capturas ups!](https://raw.githubusercontent.com/jhassan8/o-crunchy-tv/master/layouts.gif)
+Captures:
+
+![layouts.gif](https://raw.githubusercontent.com/jhassan8/o-crunchy-tv/master/layouts.gif)
 
 # Crunchy Difix by Jocs.
